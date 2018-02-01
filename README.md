@@ -1,6 +1,6 @@
 # The Movement Proposal Standard
 
-List of approved proposals: https://github.com/MovementDAO/DAO-Proposals/issues
+Proposal list: https://github.com/MovementDAO/DAO-Proposals/issues
 
 All proposals should adhere to The Movement's standard proposal structure:
 
