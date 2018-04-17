@@ -4,10 +4,10 @@ Proposal list: https://github.com/MovementDAO/DAO-Proposals/issues
 
 All proposals should adhere to The Movement's standard proposal structure:
 
-**Name**: Include the name of your proposed idea/feature/sphere/development in both the first line of text and the title of the issue in our repository.
+**Name**: The name of your proposed idea/feature/plan.
 
-**Idea**: Explain your proposal. What are your ideas and visions? Try to be as detailed as possible.
+**Idea**: Explain your proposal. Try to be as detailed as possible.
 
-**Summary**: Write one sentence that summarizes your proposal.
+**Summary**: One to two sentences that summarize your proposal.
 
-**ETH address**: Your personal ETH address
+**ETH address**: Your personal ETH address.
